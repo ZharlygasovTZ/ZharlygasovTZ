@@ -72,15 +72,20 @@
 
 <h2>Education:</h2>
 <h3>I graduated from: </h3>
-    <div class="onk" style="padding-left: 40;">
-        <img src="http://www.onk-rb.ru/logo3.png" width="50" height="50" display="inline-block"> 
-        <p dysplay="inline-block"><pre>Oktybrskiy</br>Pentroleum&#9;- Geophysical methods of well research</br>Calledge</br></p></pre>
-    </div>
-    <div>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/8/80/Logo_psu.png" width="180" height="50" >
-        <p dysplay="inline-block"><pre>Perm</br>State&#9;&#9;- Faculty of Geology</br>University</br></pre></p>
-    </div>
-<div>At Skillbox:</div>
+<div class="onk" style="padding-left: 40;">
+    <img src="http://www.onk-rb.ru/logo3.png" width="50" height="50" display="inline-block"> 
+    <p dysplay="inline-block">
+        <pre>Oktybrskiy</br>Pentroleum&#9;- Geophysical methods of well research</br>Calledge</br></pre>
+    </p>
+</div>
+<div>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/80/Logo_psu.png" width="180" height="50" >
+    <p dysplay="inline-block">
+        <pre>Perm</br>State&#9;&#9;- Faculty of Geology</br>University</br></pre>
+    </p>
+</div>
+
+<h3>At Skillbox:</h3>
 <ul>
     <li>
         <a href="#" target="_blank" rel="noopener noreferrer">Testing web app</a>
