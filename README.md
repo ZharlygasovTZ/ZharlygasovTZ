@@ -106,3 +106,5 @@
         <a href="#" target="_blank" rel="noopener noreferrer">Python</a>
     </li>
 </ul>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/anuraghazra/github-readme-stats)
