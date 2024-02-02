@@ -1,6 +1,6 @@
 <div class="header">
     <div class="header__wrapper"
-        style="width: 100%; height: 40%; border: 2px; border-radius: 15px; overflow: hidden; box-shadow: inset 0 0 20px white; 
+        style="border: 2px; border-radius: 15px; overflow: hidden; box-shadow: inset 0 0 20px white; 
         background: url(https://blog.bydrec.com/hubfs/3%20Benefits%20of%20Outsourcing%20the%20QA%20and%20Testing%20of%20Your%20New%20Programming%20Software.jpg) no-repeat center / cover;">
         <a href="https://github.com/ZharlygasovTZ" target="_blank" rel="noopener noreferrer"
             style=" display:block; width: 100%; height: 100%; cursor: pointer;"></a>
