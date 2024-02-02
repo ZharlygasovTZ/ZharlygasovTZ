@@ -71,12 +71,14 @@
 
 
 <h2>Education:</h2>
-<div>I graduated from: 
-    <div>
-        <img src="http://www.onk-rb.ru/logo3.png" width="30" height="30" > Oktybrskiy Pentroleum Calledge - Geophysical methods of well research
+<h3>I graduated from: </h3>
+    <div class="onk" style="padding-left: 40;">
+        <img src="http://www.onk-rb.ru/logo3.png" width="50" height="50" display="inline-block"> 
+        <p dysplay="inline-block"><pre>Oktybrskiy</br>Pentroleum&#9;- Geophysical methods of well research</br>Calledge</br></p></pre>
     </div>
     <div>
-        <img src="https://upload.wikimedia.org/wikipedia/ru/1/1c/Логотип_Пермского_государственного_национального_исследовательского_университета.png" width="30" height="30" > Perm State University - Faculty of Geology
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/80/Logo_psu.png" width="180" height="50" >
+        <p dysplay="inline-block"><pre>Perm</br>State&#9;&#9;- Faculty of Geology</br>University</br></pre></p>
     </div>
 <div>At Skillbox:</div>
 <ul>
