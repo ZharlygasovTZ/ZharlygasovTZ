@@ -34,7 +34,7 @@
 ---
 
 <h2>Languages and Tools:</h2>
-<div align="center">
+<div class="my_skills" align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
@@ -52,3 +52,24 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>
 </div>
 
+<h2>Work exp in IT sphere:</h2>
+<h3>QA Engineer - VK (dec.2023-thiese moment)</h3>
+<ul>
+    <li>More than 30 accepted bugs</li>
+    <li>Testing web and mobile app</li>
+    <li>Creating bug reports on found defects in the bug tracker</li>
+    <li>Interaction with developers to improve product quality</li>
+</ul>
+
+
+<h2>Education:</h2>
+<ul>
+    <li>
+        <a href="#" target="_blank" rel="noopener noreferrer"></a>
+    </li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+</ul>
