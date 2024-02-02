@@ -61,6 +61,13 @@
 </ul>
 
 <h3>QA Engineer - CrowdTesting (27.oct.2023-05.nov.2023)</h3>
+<div>
+    <a href="https://github.com/ZharlygasovTZ/Certificates/blob/main/CrowdTesting.jpg">
+        <img src="https://ico.cppng.com/download/2101/certified_PNG8.png" title="Certificate" alt="Certificate" width="100" height="100"> 
+    </a>
+    <p>
+    </p>
+</div>
 <ul>
     <li>More than 10 accepted bugs</li>
     <li>Testing a mobile app on Android</li>
@@ -70,19 +77,15 @@
 </ul>
 
 
-<h2>Education:</h2>
+<h2 style="color: #52A2F7">Education:</h2>
 <h3>I graduated from: </h3>
 <div class="onk" style="padding-left: 40;">
     <img src="http://www.onk-rb.ru/logo3.png" width="50" height="50" display="inline-block" style="pointer-events: none;""> 
-    <p dysplay="inline-block">
-        <pre>Oktybrskiy</br>Pentroleum&#9;- Geophysical methods of well research</br>Calledge</br></pre>
-    </p>
+    <pre>Oktybrskiy</br>Pentroleum&#9;- Geophysical methods of well research</br>Calledge</br></pre>
 </div>
 <div>
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/80/Logo_psu.png" width="180" height="50" >
-    <p dysplay="inline-block">
-        <pre>Perm</br>State&#9;&#9;- Faculty of Geology</br>University</br></pre>
-    </p>
+    <pre>Perm</br>State&#9;&#9;- Faculty of Geology</br>University</br></pre>
 </div>
 
 <h3>At Skillbox:</h3>
@@ -100,11 +103,14 @@
         <a href="#" target="_blank" rel="noopener noreferrer">SQL Query Language</a>
     </li>
     <li>
-        <a href="#" target="_blank" rel="noopener noreferrer">Layout</a> - <a href="#" target="_blank" rel="noopener noreferrer">The code of my qualification work</a>
+        <a href="https://github.com/ZharlygasovTZ/Certificates/blob/main/certificate%20of%20Layout.png" target="_blank" rel="noopener noreferrer">Layout</a> - 
+        <a href="https://github.com/ZharlygasovTZ/Graduation_layout" target="_blank" rel="noopener noreferrer">The code of my qualification work</a>
     </li>
     <li>
-        <a href="#" target="_blank" rel="noopener noreferrer">Python</a>
+        <a href="https://github.com/ZharlygasovTZ/Certificates/blob/main/сertificate%20of%20Pyton.png" target="_blank" rel="noopener noreferrer">Python</a>
     </li>
 </ul>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/anuraghazra/github-readme-stats)
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZharlygasovTZ&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
