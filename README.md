@@ -43,7 +43,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
   <img src="https://github.com/anatolyhalak/anatolyhalak/blob/main/icons/fiddler.png" title="Fiddler"  alt="Fiddler" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
@@ -61,15 +60,42 @@
     <li>Interaction with developers to improve product quality</li>
 </ul>
 
+<h3>QA Engineer - CrowdTesting (27.oct.2023-05.nov.2023)</h3>
+<ul>
+    <li>More than 10 accepted bugs</li>
+    <li>Testing a mobile app on Android</li>
+    <li>Functional testing</li>
+    <li>Compatibility testing</li>
+    <li>Traffic monitoring using Fiddler and Charlesproxy sniffers</li>
+</ul>
+
 
 <h2>Education:</h2>
+<div>I graduated from: 
+    <div>
+        <img src="http://www.onk-rb.ru/logo3.png" width="30" height="30" > Oktybrskiy Pentroleum Calledge - Geophysical methods of well research
+    </div>
+    <div>
+        <img src="https://upload.wikimedia.org/wikipedia/ru/1/1c/Логотип_Пермского_государственного_национального_исследовательского_университета.png" width="30" height="30" > Perm State University - Faculty of Geology
+    </div>
+<div>At Skillbox:</div>
 <ul>
     <li>
-        <a href="#" target="_blank" rel="noopener noreferrer"></a>
+        <a href="#" target="_blank" rel="noopener noreferrer">Testing web app</a>
     </li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
+    <li>
+        <a href="#" target="_blank" rel="noopener noreferrer">Testing mobile app</a>
+    </li>
+    <li>
+        <a href="#" target="_blank" rel="noopener noreferrer">Version controll Git</a>
+    </li>
+    <li>
+        <a href="#" target="_blank" rel="noopener noreferrer">SQL Query Language</a>
+    </li>
+    <li>
+        <a href="#" target="_blank" rel="noopener noreferrer">Layout</a> - <a href="#" target="_blank" rel="noopener noreferrer">The code of my qualification work</a>
+    </li>
+    <li>
+        <a href="#" target="_blank" rel="noopener noreferrer">Python</a>
+    </li>
 </ul>
