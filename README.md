@@ -79,7 +79,7 @@
 
 <h2 style="color: #52A2F7">Education:</h2>
 <h3>I graduated from: </h3>
-<div class="onk" style="padding-left: 40;">
+<div class="onk" style="padding-left: 40; background: ">
     <img src="http://www.onk-rb.ru/logo3.png" width="50" height="50" display="inline-block" style="pointer-events: none;""> 
     <pre>Oktybrskiy</br>Pentroleum&#9;- Geophysical methods of well research</br>Calledge</br></pre>
 </div>
