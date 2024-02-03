@@ -91,10 +91,10 @@
 <h3>At Skillbox:</h3>
 <ul>
     <li>
-        <a href="#" target="_blank" rel="noopener noreferrer">Testing web app</a>
+        <a href="https://github.com/ZharlygasovTZ/Certificates/blob/main/cerificate%20web%20app.png" target="_blank" rel="noopener noreferrer">Testing web app</a>
     </li>
     <li>
-        <a href="#" target="_blank" rel="noopener noreferrer">Testing mobile app</a>
+        <a href="https://github.com/ZharlygasovTZ/Certificates/blob/main/certificate%20mobile%20app.png" target="_blank" rel="noopener noreferrer">Testing mobile app</a>
     </li>
     <li>
         <a href="#" target="_blank" rel="noopener noreferrer">Version controll Git</a>
