@@ -64,7 +64,11 @@
     <li>Registration of test results in full compliance with the established format and requirements of the company's terms of reference in the bug tracker Jira</li>
     <li>Testing web, desktop and mobile app</li>
     <li>Working with a large amount of data</li>
+    <li>Traffic monitoring using Fiddler and Charlesproxy sniffers</li>
 </ul>
+<div>
+    <b>Personal achievement: </b>the middle error was transferred to the error with status <b>blocker</b>, as I found out and proved its influence on the appearance of other errors in one of the main functionality
+</div>
 
 <h3>QA Engineer - VK (dec.2023-thiese moment)</h3>
 <ul>
