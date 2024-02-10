@@ -52,6 +52,20 @@
 </div>
 
 <h2>Work exp in IT sphere:</h2>
+<h3>QA Engineer - SPIRIT Corp (22.jan.2024-07.feb.2024)</h3>
+<div>
+    <a href="https://github.com/ZharlygasovTZ/Certificates/blob/main/certificate%20SPIRIT-Corp%2012path.jpg">
+        <img src="https://ico.cppng.com/download/2101/certified_PNG8.png" title="Certificate" alt="Certificate" width="100" height="100"> 
+    </a>
+</div>
+<ul>
+    <li>Study of the terms of reference and preparation of test documents</li>
+    <li>Conducting testing on the tasks of the terms of reference, based on prepared documents</li>
+    <li>Registration of test results in full compliance with the established format and requirements of the company's terms of reference in the bug tracker Jira</li>
+    <li>Testing web, desktop and mobile app</li>
+    <li>Working with a large amount of data</li>
+</ul>
+
 <h3>QA Engineer - VK (dec.2023-thiese moment)</h3>
 <ul>
     <li>More than 30 accepted bugs</li>
@@ -65,8 +79,6 @@
     <a href="https://github.com/ZharlygasovTZ/Certificates/blob/main/CrowdTesting.jpg">
         <img src="https://ico.cppng.com/download/2101/certified_PNG8.png" title="Certificate" alt="Certificate" width="100" height="100"> 
     </a>
-    <p>
-    </p>
 </div>
 <ul>
     <li>More than 10 accepted bugs</li>
@@ -100,7 +112,7 @@
         <a href="#" target="_blank" rel="noopener noreferrer">Version controll Git</a>
     </li>
     <li>
-        <a href="#" target="_blank" rel="noopener noreferrer">SQL Query Language</a>
+        <a href="https://github.com/ZharlygasovTZ/Certificates/blob/main/SQL%20cetificate.jpg" target="_blank" rel="noopener noreferrer">SQL Query Language</a>
     </li>
     <li>
         <a href="https://github.com/ZharlygasovTZ/Certificates/blob/main/certificate%20of%20Layout.png" target="_blank" rel="noopener noreferrer">Layout</a> - 
