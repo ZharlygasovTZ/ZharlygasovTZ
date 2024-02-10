@@ -27,7 +27,7 @@
     </p>
 </blockquote>
 <p class="greeting" style="color: white;">
-    Hi, I'm Tamirlan Zharlygasov, a testing engineer! And every day I try to learn something new in this
+    Hi, I'm Tamirlan Zharlygasov, a QA engineer! And every day I try to learn something new in this
     profession in order to make the product better for the end user.
 </p>
 
