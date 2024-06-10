@@ -52,7 +52,7 @@
 </div>
 
 <h2>Work exp in IT sphere:</h2>
-<h3>QA Engineer - SPIRIT Corp (22.jan.2024-07.feb.2024)</h3>
+<h3>QA Engineer - SPIRIT Corp (22.jan.2024-thiese moment)</h3>
 <div>
     <a href="https://github.com/ZharlygasovTZ/Certificates/blob/main/certificate%20SPIRIT-Corp%2012path.jpg">
         <img src="https://ico.cppng.com/download/2101/certified_PNG8.png" title="Certificate" alt="Certificate" width="100" height="100"> 
